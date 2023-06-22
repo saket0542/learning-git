@@ -1,8 +1,7 @@
 Hello my name is saket saraogi and I live in Varanasi.
 I am working at Wipro.
-<<<<<<< HEAD
 My salary is very less.
-=======
 I am committed.
 I am 25 years Old.
->>>>>>> new-index-file
+I want to switch company.
+
