@@ -4,4 +4,6 @@ My salary is very less.
 I am committed.
 I am 25 years Old.
 I want to switch company.
-
+Skills-
+1. Web Development
+2. System Testing
